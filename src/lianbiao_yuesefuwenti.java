@@ -24,7 +24,7 @@ f[i]=(f[i-1]+m)%i;  (i>1)*/
 
 import java.util.*;
 import java.util.Scanner;
-public class yuesefuwenti{
+public class lianbiao_yuesefuwenti {
     static int m;static int n;
     static int getResult(int m, int n){
         if(m<=0||n<=0){
